@@ -1,7 +1,7 @@
 # Klevu_MysqlCompat
 This is a compatible sub package to the [klevu-smart-search-M2](https://github.com/klevu/klevu-smart-search-M2) repository. 
 
-Only useful when website is using the Catalog Search Engine as MySQL and [Preserve Your Theme Layout](https://support.klevu.com/knowledgebase/preserving-your-theme-layout-for-the-search-results-page-magento-2/) for Search Result Page.
+Only useful when website is using the Catalog Search Engine as MySQL and [Preserve Your Theme Layout](https://help.klevu.com/support/solutions/articles/5000871515-preserving-theme-layout) for Search Result Page.
 
 This module created to make the Klevu Magento 2 module compatible with MySQL catalog search engine.
 
